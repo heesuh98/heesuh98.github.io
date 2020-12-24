@@ -1,0 +1,4 @@
+#BLOG POST
+##TIL(TODAY I LEARNED)
+*Python
+*R
